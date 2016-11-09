@@ -1,6 +1,5 @@
 <resources>
     <string name="app_name">Generate Random Card</string>
-    <string name="genCardBtnText">Generate Card</string>
-    <string name="textView1">Random Number</string>
+    <string name="genCardBtnText">Random Card</string>
     <string name="tglVisibleBtnText">Show/Hide Card</string>
 </resources>
